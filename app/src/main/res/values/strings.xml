@@ -1,0 +1,250 @@
+<resources>
+    <string name="app_name">StudentCRM</string>
+
+    <string name="appsplashbg">AppSplashBG</string>
+    <string name="app_title">School CRM</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">login</string>
+    <string name="forgot_password_click_here"><u>Forgot password</u></string>
+    <string name="teacher_name">Parent Name</string>
+    <string name="student_name">student name</string>
+    <string name="user_image">user image</string>
+    <string name="notification">notification</string>
+    <string name="notification1">Notification</string>
+    <string name="back">back</string>
+    <string name="home_item_list_image">home item list image</string>
+    <string name="dashboard">dashboard</string>
+    <string name="teacher">teacher</string>
+    <string name="teachers">Teachers</string>
+    <string name="subject">Subject</string>
+    <string name="subjects">Subjects</string>
+    <string name="class_routine">class routine</string>
+    <string name="class_routine_">Class Routine</string>
+    <string name="study_material">study material</string>
+    <string name="study_material_">Study Material</string>
+    <string name="academic_syllabus">academic syllabus</string>
+    <string name="academic_syllabus_">Academic Syllabus</string>
+    <string name="exam_marks">exam marks</string>
+    <string name="exam_marks_">Exam Marks</string>
+
+    <string name="payment">payment</string>
+    <string name="payment_">Payment</string>
+    <string name="library">library</string>
+    <string name="library_">Library</string>
+    <string name="transport">transport</string>
+    <string name="transport_">Transport</string>
+    <string name="noticeboard">noticeboard</string>
+    <string name="noticeboard_">Noticeboard</string>
+    <string name="messages">Messages</string>
+    <string name="account">Account</string>
+    <string name="attendance">Attendance</string>
+    <string name="select_month">Select Month</string>
+
+    <string name="account_">Account</string>
+    <string name="calender">calender</string>
+    <string name="calender_">Calender</string>
+    <string name="class_name">[class name]</string>
+    <string name="school_name">[School name]</string>
+    <string name="usn_roll_number">[usn/roll number]</string>
+    <string name="city_name">[City name]</string>
+    <string name="_continue">continue</string>
+    <string name="a_password_reset_link_will_be_send_to_above_email">A password reset link will be send to above email</string>
+    <string name="notification_dummy_heading">Notification dummy heading</string>
+    <string name="dummy_multiline_text">Notification dummy text. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
+    <string name="notifications">Notifications</string>
+    <string name="student_name_header">Student Name</string>
+    <string name="student_email">Student E-Mail</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="upload_user_pic">Upload user pic</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="birthday">BIRTHDAY</string>
+    <string name="mobile_number">MOBILE NUMBER</string>
+    <string name="full_address">FULL ADDRESS</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">gallery</string>
+    <string name="gallery_">Gallery</string>
+    <string name="news">News</string>
+    <string name="feedback">Feedback</string>
+    <string name="LeaderBoard">Leader Board</string>
+    <string name="Bench">Word From Bench</string>
+    <string name="Scholarship">Scholarship</string>
+    <string name="ExtraCurriculam">ExtraCurriculam</string>
+    <string name="Support">Support</string>
+
+
+    <string name="logout">logout</string>
+    <string name="change_password">change password</string>
+    <string name="current_password">CURRENT PASSWORD</string>
+    <string name="new_password">NEW PASSWORD</string>
+    <string name="search_teachers">Search teachers…</string>
+    <string name="search_subjects">Search subjects…</string>
+    <string name="arrow_right">arrow right</string>
+    <string name="days">days</string>
+    <string name="class_routine_is_subject_to_change_please_do_keep_checking_more_often">Class routine is subject to change. Please do keep checking more often.</string>
+    <string name="weekly_class_routine">weekly class routine</string>
+    <string name="search_study_materials">Search study materials…</string>
+    <string name="search_route">Search route…</string>
+    <string name="search_notice">Search notice…</string>
+    <string name="search_payments">Search payments…</string>
+    <string name="download">download</string>
+    <string name="dummy_Date">06/28/2017</string>
+    <string name="dummy_date">06/28/2017</string>
+    <string name="dummy_marks">100</string>
+    <string name="dummy_obtain_marks">70</string>
+    <string name="dummy_total_marks">Total Marks</string>
+    <string name="dummy_obtained_marks">Obtained Marks</string>
+    <string name="dummy_class">8 - B</string>
+    <string name="dummy_file">dummy file</string>
+    <string name="dummy_uploader">Uploader</string>
+    <string name="search_academic_syllabus">Search academic syllabus…</string>
+    <string name="search_exam_paper">Search exam paper…</string>
+    <string name="status">status</string>
+    <string name="amount">amount</string>
+    <string name="rupee_symbol">&#8377;&#160;</string>
+    <string name="tab_icon">tab icon</string>
+    <string name="pending">pending</string>
+    <string name="requested">requested</string>
+    <string name="request">request</string>
+    <string name="issue_end_date">issue end date</string>
+    <string name="issue_start_date">issue start date</string>
+    <string name="search_books">Search books…</string>
+    <string name="no_of_vehicles">No of vehicles:&#160;</string>
+    <string name="view">View</string>
+    <string name="date">date:&#160;</string>
+    <string name="exam_date">Exam date :&#160;</string>
+    <string name="request_book">request book</string>
+    <string name="select_issue_date">select issue date</string>
+    <string name="message_send">message send</string>
+    <string name="write_your_message_here">Write your message here…</string>
+    <string name="search_messages">Search messages…</string>
+    <string name="search_your_kids">Search your kids…</string>
+    <string name="chat">chat</string>
+    <string name="exam_title">Exam Title</string>
+    <string name="loading">Loading…</string>
+    <string name="assignment">assignment</string>
+    <string name="assignment_">Assignment</string>
+    <string name="please_wait">please_wait</string>
+    <string name="notify_msg_text">You have a new message from</string>
+
+    <array name="home_list_items">
+        <item>@string/assignment</item>
+        <item>@string/attendance</item>
+        <item>@string/teacher</item>
+        <item>@string/academic_syllabus</item>
+        <item>@string/subject</item>
+        <item>@string/class_routine</item>
+        <item>@string/study_material</item>
+        <item>@string/exam_marks</item>
+        <item>@string/payment</item>
+        <item>@string/library</item>
+        <item>@string/transport</item>
+        <item>@string/noticeboard</item>
+        <item>@string/messages</item>
+        <item>@string/calender</item>
+        <item>@string/account</item>
+    </array>
+
+
+    <array name="home_list_item">
+        <item>@string/gallery</item>
+        <item>@string/news</item>
+        <item>@string/feedback</item>
+        <item>@string/LeaderBoard</item>
+        <item>@string/Bench</item>
+        <item>@string/Scholarship</item>
+        <item>@string/ExtraCurriculam</item>
+        <item>@string/Support</item>
+
+    </array>
+
+    <string name="previous">Go to previous</string>
+    <string name="next">Go to next</string>
+    <string name="calendar">Calendar</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+
+    <string-array name="custom_weekdays">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+
+
+    <string name="dev_company_name">semicolon india</string>
+    <string name="powered_by">powered by</string>
+    <string name="search_assignment_task">Search Assignment Task</string>
+    <string name="reports_to">Reports to</string>
+    <string name="marks">marks</string>
+    <string name="submit_date">Submit date</string>
+    <string name="upload_date">Upload date</string>
+    <string name="route_title">Route Title</string>
+    <string name="holiday_date">Holiday Date</string>
+    <string name="title">title</string>
+    <string name="class1">Class</string>
+    <string name="connection_error">Connection error</string>
+    <string name="ok">OK</string>
+    <string name="no_internet_msg">Please check the internet connection and try again.</string>
+    <string name="marks_obtained">Marks Obtained</string>
+    <string name="total_marks">Total Marks</string>
+    <string name="Grade">grade</string>
+
+
+    <!--Spinner  string resources also defined in this file… -->
+    <string name="feedbacktype">Feedback Type</string>
+    <string name="feedbacktype1">Praise</string>
+    <string name="feedbacktype2">Gripe</string>
+    <string name="feedbacktype3">Suggestion</string>
+    <string name="feedbacktype4">Bug</string>
+    <string name="feedbackname">feedbackname</string>
+    <string name="feedback_email">feedback email</string>
+    <string name="feedback_title">feedback title</string>
+    <string name="feedback_body">feedback body</string>
+    <string name="feedback_response">feedback response</string>
+    <string name="feedback_button">feedback button</string>
+    <string name="Achivment">Achivment</string>
+    <string name="name">Name</string>
+    <string name="section">Section</string>
+    <string name="time">Time</string>
+    <string name="abc">abc</string>
+    <string name="asdfff">asdfff</string>
+    <string name="Apply">Apply</string>
+    <string name="Class">Class</string>
+    <string name="RadioGroup">RadioGroup</string>
+    <string name="Categories">Categories</string>
+    <string name="char_limit">Character Limit 512</string>
+    <string name="char_limit_512">Maximum character limit is 512, remaining 512</string>
+    <string name="char_limit_512_remaining">Maximum character limit is 512, remaining</string>
+    <string name="select_action">Select Actions</string>
+    <string name="year_2017">Year 2017</string>
+    <string name="section_b">Section: B</string>
+    <string name="class_stv_v">Class: STV V</string>
+    <string name="kid_name">Kid name</string>
+    <string name="achievement">Achievement</string>
+    <string name="selectexam">Select Exam</string>
+    <string name="dev_company">dev_company</string>
+    <string name="categories">Categories</string>
+    <string name="escalation">Escalation</string>
+    <string name="select_exam_paper">Select Exam Paper</string>
+    <string name="file_name">file name</string>
+    <string name="facing_any_problem_we_are_here_to_help">facing any problem?\nwe are here to help</string>
+    <string name="dev_number">99xxxxxx88</string>
+    <string name="call">call</string>
+    <string name="message">message</string>
+    <string name="whatsapp">whatsapp</string>
+    <string name="mail">mail</string>
+    <string name="abc_abc_com">abc@abc.com</string>
+    <string name="company_address">#1/1 ABC Building\nANC, ABC xxxxxx</string>
+    <!--<string name="holiday_date">Holiday Date</string>-->
+
+</resources>
